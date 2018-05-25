@@ -1,0 +1,16 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\bin\Debug\AutoLogin.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.About.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.MainForm.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.Properties.Resources.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.setDialogForm.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.GenerateResource.Cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\AutoLogin\AutoLogin\obj\Debug\AutoLogin.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\AutoLogin\AutoLogin\obj\Debug\AutoLogin.pdb
